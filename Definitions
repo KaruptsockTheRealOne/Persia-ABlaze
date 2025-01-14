@@ -29,9 +29,29 @@ Services
   LotAtc (Lot ATC system for Remote LotATC)
 
 serversidescripts/Scripts
-  
+  serversidescripts/Scripts/DCS-gRPC
+  serversidescripts/Scripts/Hooks
+    serversidescripts/Scripts/Hooks/DCS-BIOS-LuaConsole-hook.lua ( ? )
+    serversidescripts/Scripts/Hooks/DCS-SRS-AutoConnectGameGUI.lua (SRS Autoconnection controls for when a player joins)
+    serversidescripts/Scripts/Hooks/DCS-SRS-hook.lua (SRS Hookin file)
+    serversidescripts/Scripts/Hooks/SimpleSlotBlockGameGUI.lua (Airbase /farp slot blocker from when spots are filledor restricted due to the wrong coalition)
+    serversidescripts/Scripts/Hooks/SimpleSlotBlockGameGUI.lub ( part of Slot Blocker)
+    serversidescripts/Scripts/Hooks/TacviewGameGUI.lua (Will have to look into disabling this)
+    serversidescripts/Scripts/Hooks/datis-hook.lua (SRS Hazel defunct Will have to look into disabling this)
+    serversidescripts/Scripts/Hooks/grpc-hook.lua
+    serversidescripts/Scripts/Hooks/lotatcGameGUI.lua (Will have to look into disabling this)
+    serversidescripts/Scripts/Hooks/slmodGameGUI.lua (No idea)
+    serversidescripts/Scripts/Hooks/slmodGameGUI.lub (No idea)
 
+serversidescripts/Scripts/net/Slmodv7_6 (No idea)
 
+serversidescripts/Scripts/Export.lua 
+serversidescripts/Scripts/TacviewGameExport.lua
+serversidescripts/Scripts/dedicatedServer.lua
+
+SRC
+  src/pg (No idea yet)
+      src/pg/scripts (All the Lua files that run systems)
 
 
 
