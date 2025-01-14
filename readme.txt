@@ -1,5 +1,5 @@
 Persia Aflame by Robert Graham for Task Group Warrior.
-
+Perverted by Karuptsock of Task Group Warrior
 
 This presumes that you know how to run a DCS Server, have UNSANATIZED the items in missionscripting.lua
 Have Slotblocker installed and working on your server.
