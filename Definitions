@@ -1,5 +1,18 @@
-.settings
-  org.eclipse.ldt.prefs (old data , awaiting removal request)
+.settings (old data , removed)
+  org.eclipse.ldt.prefs (old data , removed)
 
 .vs
   .vs/Persia-Aflame/v16
+    .suo (unkown)
+
+.vs/ProjectSettings.json (unkown)
+.vs/VSWorkspaceState.json (file locations defined)
+.vs/slnx.sqlite (unkown)
+
+missionfile
+  ****.miz (mission files created from DCS Mission Editor)
+
+
+
+
+
