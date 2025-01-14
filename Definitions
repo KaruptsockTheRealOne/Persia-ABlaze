@@ -9,8 +9,43 @@
 .vs/VSWorkspaceState.json (file locations defined)
 .vs/slnx.sqlite (unkown)
 
-missionfile
-  ****.miz (mission files created from DCS Mission Editor)
+missionfile (mission files created from DCS Mission Editor)
+
+SRC
+saved games/dcs/pg/src (appears to be a pre-loader for .miz files from dropbox , can disregard for local server)
+
+DATIS (SRS Hazel defunct)
+ serversidescripts/Mods/Tech/DATIS 
+
+DCS-gRPC (DCS gRPC server written in Rust. Get data out of DCS and send commands into DCS.) https://github.com/DCS-gRPC/rust-server
+serversidescripts/Mods/Tech/DCS-gRPC
+
+Tacview
+serversidescripts/Mods/Tech/Tacview
+
+Services
+  serversidescripts/Mods/services
+  DCS-SRS (SRS radio system)
+  LotAtc (Lot ATC system for Remote LotATC)
+
+serversidescripts/Scripts
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
